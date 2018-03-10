@@ -1,0 +1,19 @@
+{
+  "name": "socialanalytics",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[A\u001b[A\u001b[B\u001b[B\u001b[B\u001b[B\u001b[Acourse project to show analysis for social media platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jatin-007/SocialAnalytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jatin-007/SocialAnalytics/issues"
+  },
+  "homepage": "https://github.com/Jatin-007/SocialAnalytics#readme"
+}
