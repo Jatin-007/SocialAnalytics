@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jatin-007/SocialAnalytics/issues"
   },
-  "homepage": "https://github.com/Jatin-007/SocialAnalytics#readme"
+  "homepage": "https://github.com/Jatin-007/SocialAnalytics#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
